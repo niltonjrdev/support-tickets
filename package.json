@@ -1,0 +1,12 @@
+{
+  "name": "support-tickets",
+  "version": "1.0.0",
+  "description": "ticket's support API management",
+  "main": "src/serve.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/serve.js"
+  },
+  "author": "Nilton Junior",
+  "license": "ISC"
+}
