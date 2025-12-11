@@ -1,22 +1,20 @@
 {
   "tickets": [
     {
-      "id": "25d1d987-b55c-45a8-a064-36a2df86e1ef",
+      "id": "6e45b939-9cb8-4e3e-aa2e-35be205b1e5e",
       "equipment": "Teclado",
       "description": "Tecla de espaço não funciona",
-      "user_name": "Felipe Man",
       "status": "open",
-      "created_at": "2025-12-11T01:29:37.295Z",
-      "updated_at": "2025-12-11T01:29:37.295Z"
+      "created_at": "2025-12-11T02:19:29.597Z",
+      "updated_at": "2025-12-11T02:19:29.597Z"
     },
     {
-      "id": "fa607766-c6df-4eb6-8348-52351b6ddb39",
+      "id": "1a2d72b2-659b-4c74-bf8c-bdaa747b823f",
       "equipment": "Computador",
       "description": "Computador não liga",
-      "user_name": "Nilton Junior",
       "status": "open",
-      "created_at": "2025-12-11T01:30:40.804Z",
-      "updated_at": "2025-12-11T01:30:40.804Z"
+      "created_at": "2025-12-11T02:20:06.600Z",
+      "updated_at": "2025-12-11T02:20:06.600Z"
     }
   ]
 }
